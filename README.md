@@ -123,6 +123,8 @@
 - [CxyFreedom](https://github.com/cxyfreedom/cxyfreedom)
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 - [Abhishek Maira](https://github.com/AbhishekMaira10/AbhishekMaira10)
+- [Raswanth](https://github.com/Raswanth8)
+
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
@@ -158,6 +160,7 @@
 - [Tushar Mittal](https://github.com/techytushar/techytushar)
 - [Onimur](https://github.com/onimur/onimur)
 - [Darshan Jain](https://github.com/darshan-jain)
+- [Raswanth](https://github.com/Raswanth8)
 
 #### Typing.. Mode 🎰
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
@@ -209,6 +212,7 @@
 - [Muskan Rani](https://github.com/muskanrani/muskanrani)
 - [Rishav Anand](https://github.com/rishavanand/rishavanand)
 - [KelviNosse](https://github.com/KelviNosse/KelviNosse)
+- [Raswanth](https://github.com/Raswanth8)
 - [nilfalse](https://github.com/nilfalse/nilfalse)
 - [Darshan Jain](https://github.com/darshan-jain)
 
@@ -241,6 +245,8 @@
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 - [Darshan Jain](https://github.com/darshan-jain)
+- [Raswanth](https://github.com/Raswanth8)
+
 
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
